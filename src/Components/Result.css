@@ -1,0 +1,13 @@
+.errorStyle{
+    color: red;
+    padding: 10px;
+    margin: 20px;
+    font-size: 30px;
+}
+
+.usualStyle{
+    color: black;
+    padding: 10px;
+    margin: 20px;
+    font-size: 30px;
+}
